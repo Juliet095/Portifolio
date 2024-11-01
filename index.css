@@ -1,0 +1,15 @@
+nav{
+    margin-left: 200px;
+    text-align: right;
+    margin-right: 200px;
+
+}
+.circular_image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+button{
+    background-color:gray;
+}
+    
