@@ -1,7 +1,10 @@
+body{
+    margin: 40px;
+} 
 nav{
-    margin-left: 200px;
+    margin-left: 150px;
     text-align: right;
-    margin-right: 200px;
+    margin-right: 150px;
 
 }
 .circular_image {
@@ -11,5 +14,20 @@ nav{
 }
 button{
     background-color:gray;
+    border-radius: 60px;
+    margin: 20px;
+    padding: 8px;
+}
+.social_media{
+    display: left;
+    margin: 15px;
+    gap: 10px;
+
+}
+.social_logo{
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+    gap: 1px;
 }
     

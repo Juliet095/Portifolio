@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.menu_toggle{
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.nav_links{
+    list-style: none;
+    display: flex;
+
+}
