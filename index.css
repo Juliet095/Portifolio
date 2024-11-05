@@ -1,5 +1,6 @@
 body{
     margin: 40px;
+
 } 
 nav{
     margin-left: 150px;
@@ -8,8 +9,8 @@ nav{
 
 }
 .circular_image {
-    width: 150px;
-    height: 150px;
+    width: 450px;
+    height: 450px;
     border-radius: 50px;
 }
 button{
@@ -17,6 +18,7 @@ button{
     border-radius: 60px;
     margin: 20px;
     padding: 8px;
+    text-align: center;
 }
 .social_media{
     display: left;
@@ -30,4 +32,8 @@ button{
     margin: 20px;
     gap: 1px;
 }
-    
+h2{
+    text-align: center;
+    margin-top: -390px;
+    margin-left: 290px;
+}
