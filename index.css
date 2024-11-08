@@ -1,17 +1,16 @@
-body{
-    margin: 40px;
 
-} 
 nav{
-    margin-left: 150px;
     text-align: right;
-    margin-right: 150px;
+    background-color: darkgrey;
+    padding: 25px 25px;
 
 }
 .circular_image {
     width: 450px;
     height: 450px;
     border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
 }
 button{
     background-color:gray;
@@ -34,6 +33,24 @@ button{
 }
 h2{
     text-align: center;
-    margin-top: -390px;
-    margin-left: 290px;
+    margin-top: -410px;
+    margin-left: 450px;
+}
+.Avator_image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: auto;
+    margin-top: -15px;
+    margin-right: 600px;
+}
+h1{
+    margin-right: 915px;
+    margin-top: -37px;
+}
+body{
+    background-image: url(./images/yes.avif);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
