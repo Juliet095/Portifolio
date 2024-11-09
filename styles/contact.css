@@ -2,5 +2,25 @@ nav{
     text-align: right;
 
 }
-.Avator_image{
+div.form-container{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    border: solid;
+    border-radius: 10%;
+    padding: 20px;
+    margin-right: 400px;
+    padding-left: -20px;
+    padding-right: -30px;
+}
+h2{text-align: center;
+    margin-top:-50px ;
+    margin-left: -100px;
+    margin-right: -100px;
+
+}
+small{
+    margin-top: -70px;
 }

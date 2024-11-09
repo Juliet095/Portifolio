@@ -18,8 +18,23 @@
             <a href="./images/projet.html">PROJECT</a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
         </nav>
     </div>
-    <small>Get in touch</small>
-    <h2><b>Contact Me</b></h2>
+    <div class="form-container">
     <img src="" alt="">
+    <small>Get in touch</small>
+        <h2><b>Contact Me</b></h2>
+    <form action="process-form.php"method="POST">
+        <label for="name">Full Nmae</label><br>
+        <input type="text"id="name" placeholder="name is reqiured"><br>
+        <label for="Email">Email</label><br>
+        <input type="text" id = "Email" placeholder="email reqiured"><br>
+        <label for="mobile number">Mobile number</label><br>
+        <input type="text"id = "Mobile number" placeholder="mobile number reqiured"><br>
+        <textarea name="message" id="message">Message</textarea><br>
+        <button type="submit">submit</button>
+
+    </form>
+</section>
+    </div>
+</div>
 </body>
 </html>
