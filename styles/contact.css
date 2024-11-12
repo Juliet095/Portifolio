@@ -1,0 +1,67 @@
+nav{
+    text-align: right;
+
+}
+div.form-container{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    border: solid;
+    border-radius: 10%;
+    padding: 20px;
+    margin-right: 400px;
+    padding-left: -20px;
+    padding-right: -30px;
+    background-color:gray ;
+}
+h2{text-align: center;
+    margin-top:-50px ;
+    margin-left: -100px;
+    margin-right: -100px;
+
+}
+small{
+    margin-top: -70px;
+}
+body{
+    background-image: url(../images/yes.avif);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.avatar_image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: auto;
+    margin-top: -15px;
+    margin-right: 600px; 
+}
+.social_media{
+    display: left;
+    margin: 15px;
+    gap: 10px;
+
+}
+.social_logo{
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+    gap: 1px;
+}
+.container{
+    align-items: center;
+    margin-left: 550px;
+    margin-right: 400px;
+    background-color: lightgrey;
+}
+fieldset:hover{
+    margin-right: 800px;
+    
+}
+small{
+    text-align: center;
+    margin-left: 600px;
+}
