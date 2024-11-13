@@ -16,6 +16,7 @@ div.form-container{
     margin-right: 400px;
     padding-left: -20px;
     padding-right: -30px;
+    background-color: lightgrey;
 }
 h2{text-align: center;
     margin-top:-50px ;
@@ -27,8 +28,29 @@ small{
     margin-top: -70px;
 }
 body{
-    background-image: url(./images/yes.avif);
+    background-image: url(../images/yes.avif);
     background-position: cover;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.social_media{
+    display: left;
+    margin: 15px;
+    gap: 10px;
+
+}
+.social_logo{
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+    gap: 2px;
+}
+fieldset{
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+    background-color: lightgrey;
+}
+small{
+    margin-left: 550px;
 }
