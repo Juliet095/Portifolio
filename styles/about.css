@@ -1,6 +1,82 @@
 nav{
     text-align: right;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    background-image:url(../images/yes.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about{
+    min-height:100vh;
+    width:100%;
+    padding:70px 0px;
+    background-image:url(../images/yes.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.about_img{
+    border:2px solid #f300;
+    box-shadow: 0 0 5px #f300
+                0 0 25px #f300;
+    width: 20%;
+    height: 20%;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.main{
+    width: 1200px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h1{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.profile_image{
+    box-sizing: border-box;
+    box-shadow: 0 0 5px blue
+                 0 0 25px blue;
+    border-radius: 15px;
+    width: 30%;
+    height: 20%;
+    filter: drop-shadow(10px 10px 15px rgba(0,0,255,0.5));
+    transition: box-shadow 0.3s ease;
+    background-color: grey;
+}
+.profile_image:hover{
+    box-shadow: 20px 20px 30px rgba(0,0,255,0.5);
+}
+.skills{
+    border: 5px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    filter: drop-shadow(0,0,0, 0.5);
+}
+
+
+.passion{
+    border: 5px;
+}
+.call{
+    border: 5px ;
+}
+section{
+    gap: 2px;
+}
+h1{
+    margin-top: -100px;
+}
+.container{
+    margin-top: -150px;
+    margin-bottom: -190px;
+>>>>>>> 5aeab6d00b341665e996076b96c1438daa23914d
 }
 =======
 }
