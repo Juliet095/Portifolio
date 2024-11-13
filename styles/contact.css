@@ -14,10 +14,6 @@ div.form-container{
     margin-right: 400px;
     padding-left: -20px;
     padding-right: -30px;
-<<<<<<< HEAD
-    background-color:gray ;
-=======
->>>>>>> fa39dc252f598f8f3b8dc5a3632a783f902bc6bc
 }
 h2{text-align: center;
     margin-top:-50px ;
@@ -28,7 +24,6 @@ h2{text-align: center;
 small{
     margin-top: -70px;
 }
-<<<<<<< HEAD
 body{
     background-image: url(../images/yes.avif);
     background-position: cover;
@@ -69,5 +64,3 @@ small{
     text-align: center;
     margin-left: 600px;
 }
-=======
->>>>>>> fa39dc252f598f8f3b8dc5a3632a783f902bc6bc
