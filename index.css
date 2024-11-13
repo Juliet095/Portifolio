@@ -5,7 +5,7 @@ nav{
     padding: 25px 25px;
 
 }
-.circular_image {
+.circular_image:hover {
     width: 450px;
     height: 450px;
     border-radius: 50px;
