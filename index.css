@@ -20,9 +20,11 @@ button{
     text-align: center;
 }
 .social_media{
-    display: left;
+    display: inline-flex;
     margin: 15px;
     gap: 10px;
+    border: 2PX solid #00abf0;
+    border-radius: 50%;
 
 }
 .social_logo{
@@ -30,6 +32,10 @@ button{
     height: 35px;
     margin: 20px;
     gap: 1px;
+    border: 2PX solid #00abf0;
+    border-radius: 50%;
+    z-index: -1;
+    
 }
 h2{
     text-align: center;
