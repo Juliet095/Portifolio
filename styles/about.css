@@ -1,11 +1,20 @@
 nav{
     text-align: right;
+<<<<<<< HEAD
     background-color: grey;
     padding: 25px;
     box-sizing: border-box;
     border-radius: 5px;
     margin-top: -60px;
     margin-right:15px;
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    background-image:url(../images/yes.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+>>>>>>> e3ddc027adf8450dc1948f3ec38fd6156ebe72e2
 }
 body{
     min-height:100vh;
@@ -76,4 +85,8 @@ h1{
 .container{
     margin-top: -150px;
     margin-bottom: -190px;
+>>>>>>> 5aeab6d00b341665e996076b96c1438daa23914d
 }
+=======
+}
+>>>>>>> fa39dc252f598f8f3b8dc5a3632a783f902bc6bc
