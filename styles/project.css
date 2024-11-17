@@ -1,0 +1,148 @@
+fieldset{
+    box-sizing: border-box;
+    box-shadow: 0 0 5px deepskyblue
+                 0 0 25px deepskyblue;
+    border-radius: 15px;
+    width: 30%;
+    height: 20%;
+    filter: drop-shadow(10px 10px 15px deepskyblue);
+    transition: box-shadow 0.3s ease;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-left: 30%;
+}
+h1{
+    display: flex;
+    
+    
+}
+button{
+    background-color: deepskyblue;
+    border: 7px;
+    border-radius: 6px;
+}
+
+
+
+.calculator {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin-left: 40px;
+}
+
+.screen {
+    background-color: #222;
+    color: #fff;
+    font-size: 2em;
+    padding: 10px;
+    text-align: right;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.btn {
+    background-color: #f1f1f1;
+    border: none;
+    padding: 20px;
+    font-size: 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ddd;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f5f8;
+    font-family: "Zilla Slab", serif;
+  }
+  
+  h2 {
+    font-family: "Great Vibes", cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: #ff6a23;
+    padding-top: 50px;
+  }
+  
+  footer>h2 {
+    font-family: "Great Vibes", cursive;
+    font-size: 2rem;
+    text-align: center;
+    color: #964b29;
+  
+  }
+  .menu {
+    margin-top: 40px;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+  }
+  .btn-item {
+    margin-left: 15px;
+  }
+  
+  .photo {
+    width: 30%;
+    height: 175px;
+    object-fit: cover;
+    border: 0.25rem solid black;
+    border-radius: 10px;
+    box-shadow: -10px 10px 10px 0px rgba(0,0,0,0.75);
+  }
+  .menu-items {
+    display: flex;
+    margin: 20px 0;
+    padding-right: 50px;
+  }
+  .menu-info {
+    margin-left: 20px;
+    width: 100%;
+  }
+  .menu-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+  }
+  
+  h4 {
+    color: #e00a00;
+  }
+  
+  .menu-text {
+    padding-top: 20px;
+  }
+  
+  footer {
+    margin-top: 50px;
+    position: relative;
+    bottom: 30px;
+    width: 100%;
+  }
+
+
+  
